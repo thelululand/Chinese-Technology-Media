@@ -23,6 +23,7 @@ A list of chinese-technology-focused media for non-mandarin speakers
 - [CBRE Global](https://www.cbre.com/mainland%20china/research-reports)
 - [PWC](https://www.pwccn.com/en.html)
 - [iResearch China](http://www.iresearchchina.com/)
+- [eMarketer](https://www.emarketer.com/search1/?query=china&sortBy=bestMatch)
 
 ### Books
 - [AI Superpowers: China, Silicon Valley, And The New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X) by Kai Fu Lee
