@@ -1,5 +1,5 @@
 # Chinese-Technology-Media 
-A list of chinese-technology-focused media for non-mandarin technologists and investors
+A list of chinese-technology-focused media for non-mandarin technology enthusiasts, entrepreneurs, and investors
 
 ## English
 ### General News
