@@ -59,6 +59,10 @@ A list of chinese-technology-focused media for non-mandarin speakers
 - Smart Retail, New Retail
 - Agricultural Automation
 
+### Other
+- [Venture Capital Landscape](https://medium.com/learningspershare/the-vc-landscape-in-china-7736c2c10066)
+- [Chinese Unicorn List](https://tracxn.com/d/unicorn-corner/unicorns-list-china#2021)
+
 # Other Languages
 ## Korean
 #### Research
