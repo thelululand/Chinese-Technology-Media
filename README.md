@@ -1,5 +1,5 @@
 # Chinese-Technology-Media 
-A list of chinese-technology-focused media for non-mandarin speakers
+For non mandarin speaking investors, technologists, and entrepreneurs
 
 ### General News
 - [Caixin Global](https://www.caixinglobal.com/)
