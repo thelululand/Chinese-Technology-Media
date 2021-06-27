@@ -56,6 +56,7 @@ A list of chinese-technology-focused media for non-mandarin speakers
 - Online Medical Services & Online Doctor
 - Facial Recognition & Payment
 - Smart Retail, New Retail
+- Agricultural Automation
 
 # Other Languages
 ## Korean
