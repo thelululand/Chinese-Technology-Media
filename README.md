@@ -45,6 +45,17 @@ A list of chinese-technology-focused media for non-mandarin speakers
 - 千人计划 - Thousand Talents Plan
 - 中国梦 - Chinese Dream
 
+### Exciting Innovation
+- Smarty City & City Brain
+- Smart Logitics & Automation
+- National Digital Currency (DCEP)
+- Live Streaming Commerce & Platform, Wanghong Economy
+- Mobile (QR) Payment, Yu'e Bao, Zhima Credit
+- Autonomous & Electric Car, Battery as a Service, Mobility as a Service, Robo Taxi & Drone Taxi
+- Online Medical Services & Online Doctor
+- Facial Recognition & Payment
+- Smart Retail, New Retail
+
 # Other Languages
 ## Korean
 #### Research
