@@ -34,7 +34,7 @@ A list of chinese-technology-focused media for non-mandarin speakers
 - [Pascal Coppens](https://www.youtube.com/c/PascalCoppens) (Youtube Channel)
 
 ### Key Policies and Keywords
-(links intentionally excluded to avoid subjectivity)
+(Links are intentionally excluded to avoid subjectivity)
 - 一帶一路 - Belt and Road Initiative
 - 中国制造2025 - Made In China 2025
 - 新型基础 - New Infrastructure
