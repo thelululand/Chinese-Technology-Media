@@ -1,7 +1,6 @@
 # Chinese-Technology-Media 
 A list of chinese-technology-focused media for non-mandarin speakers
 
-## English
 ### General News
 - [Caixin Global](https://www.caixinglobal.com/)
 - [South China Morning Post](https://www.scmp.com/)
@@ -31,8 +30,8 @@ A list of chinese-technology-focused media for non-mandarin speakers
 ### Documentary & Youtube
 - [Shenzhen: The Silicon Valley of Hardware](https://www.youtube.com/watch?v=SGJ5cZnoodY) by WIRED
 - [Shenzhen: City of the Future. The high-tech life of China’s Silicon Valley](https://www.youtube.com/watch?v=1TZh9f7Ai9M&ab_channel=RTDocumentary) by RT Documentary
-- [Xinhua Special: Zhongguancun: Incubating the future](https://www.youtube.com/watch?v=UNm6-Ci_Z3U&ab_channel=NewChinaTV)
-- [Pascal Coppens](https://www.youtube.com/c/PascalCoppens)
+- [Xinhua Special: Zhongguancun: Incubating the future](https://www.youtube.com/watch?v=UNm6-Ci_Z3U&ab_channel=NewChinaTV) by New China TV
+- [Pascal Coppens](https://www.youtube.com/c/PascalCoppens) (Youtube Channel)
 
 ### Key Policies and Keywords
 (links intentionally excluded to avoid subjectivity)
