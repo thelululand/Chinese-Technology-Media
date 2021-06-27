@@ -63,8 +63,8 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 - [Chinese Unicorn List](https://tracxn.com/d/unicorn-corner/unicorns-list-china#2021)
 - [Chinese ETF](https://www.etftracker.info/search/China?type=KEYWORD&id=82)
 
-# Other Languages
-## Korean
+## Other Languages
+### Korean
 #### Research
 - [Kotra](https://news.kotra.or.kr/kotranews/index.do)
 - [Platum](https://platum.kr/china)
