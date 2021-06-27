@@ -68,3 +68,6 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 #### Research
 - [Kotra](https://news.kotra.or.kr/kotranews/index.do)
 - [Platum](https://platum.kr/china)
+
+#### Youtube & Podcast
+- [CEC China Economy Channel](https://www.youtube.com/channel/UCl1Br2aQ1yHrjwI_iE9cNrA)
