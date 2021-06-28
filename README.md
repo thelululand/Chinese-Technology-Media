@@ -33,7 +33,8 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 - [Xinhua Special: Zhongguancun: Incubating the future](https://www.youtube.com/watch?v=UNm6-Ci_Z3U&ab_channel=NewChinaTV) by New China TV
 - [Pascal Coppens](https://www.youtube.com/c/PascalCoppens) (Youtube Channel)
 
-### Key Policies and Keywords
+### Other
+#### Key Policies and Keywords
 (Links are intentionally excluded to avoid subjectivity)
 - 一帶一路 - Belt and Road Initiative
 - 中国制造2025 - Made In China 2025
@@ -46,7 +47,7 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 - 千人计划 - Thousand Talents Plan
 - 中国梦 - Chinese Dream
 
-### Exciting Innovation
+#### Exciting Innovation
 - Smarty City & City Brain
 - Smart Logitics & Automation
 - National Digital Currency (DCEP)
@@ -58,7 +59,7 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 - Smart Retail, New Retail
 - Agricultural Automation
 
-### Other
+#### Startup & Investing
 - [Venture Capital Landscape](https://medium.com/learningspershare/the-vc-landscape-in-china-7736c2c10066)
 - [Chinese Unicorn List](https://tracxn.com/d/unicorn-corner/unicorns-list-china#2021)
 - [Chinese ETF](https://www.etftracker.info/search/China?type=KEYWORD&id=82)
