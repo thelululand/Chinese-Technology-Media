@@ -47,7 +47,7 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 - 千人计划 - Thousand Talents Plan
 - 中国梦 - Chinese Dream
 
-#### Exciting Innovation
+#### Exciting Innovation Areas
 - Smarty City & City Brain
 - Smart Logitics & Automation
 - National Digital Currency (DCEP)
