@@ -7,6 +7,13 @@ For non Chinese speaking investors, technologists, and entrepreneurs
 >
 > -Deng Xiaoping 邓小平
 
+> China rocks in my opinion. 
+> The energy in China is great. 
+> People there – there's like a lot of smart, hard working people.
+>
+> -Elon Musk
+
+
 ### General News
 - [Caixin Global](https://www.caixinglobal.com/)
 - [South China Morning Post](https://www.scmp.com/)
