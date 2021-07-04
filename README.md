@@ -52,7 +52,7 @@ For non Chinese speaking investors, technologists, and entrepreneurs
 - 第十四个五年规划 - 14th 5 Year Plan
 - 双循环 - Dual Circulation Economic Strategy
 - 技术自立 - Technological Indepedence
-- 再生能源 - Renewable Energy
+- 再生能源，碳中和 - Renewable Energy， Carbon Neutrality
 - 千人计划 - Thousand Talents Plan
 - 中国梦 - Chinese Dream
 - 反壟斷法 - Big Tech Anti Trust Law
