@@ -53,7 +53,7 @@ For non Chinese speaking investors, technologists, and entrepreneurs
 - 双循环 - Dual Circulation Economic Strategy
 - 技术自立 - Technological Indepedence
 - 再生能源，碳中和 - Renewable Energy, Carbon Neutrality
-- 千人计划 - Thousand Talents Plan
+- 千人计划，万人计划 - Thousand Talents Plan, Ten Thousands Talents Plan
 - 中国梦 - Chinese Dream
 - 反壟斷法 - Anti Trust Regulation
 
