@@ -6,6 +6,7 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 - [South China Morning Post](https://www.scmp.com/)
 - [Sup China](https://supchina.com/)
 - [Tech Node](https://technode.com/)
+- [Techwire Asia](https://techwireasia.com/)
 
 ### Technology Blog
 - [Kevin Xu](https://interconnected.blog/author/kevin/)
@@ -16,13 +17,15 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 - [China Tech Investor(Tech Node)](https://chinatechinvestor.simplecast.com/)
 - [Inside China Tech(SCMP)](https://www.scmp.com/podcasts/inside-china-tech)
 
-### Research
+### Market and Industry Research
 - [Mckinsey & Company Global](https://www.mckinsey.com/mgi/regional-insights/asia-pacific)
 - [Goldman Sachs](https://www.goldmansachs.com/insights/topics/china.html)
 - [CBRE Global](https://www.cbre.com/mainland%20china/research-reports)
 - [PWC](https://www.pwccn.com/en.html)
 - [iResearch China](http://www.iresearchchina.com/)
 - [eMarketer](https://www.emarketer.com/search1/?query=china&sortBy=bestMatch)
+- [CB Insights](https://www.cbinsights.com/research/china/)
+- [Refinitiv](https://www.refinitiv.com/en/belt-road-initiative-data-insight#)
 
 ### Books
 - [AI Superpowers: China, Silicon Valley, And The New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X) by Kai Fu Lee
@@ -31,10 +34,9 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 - [Shenzhen: The Silicon Valley of Hardware](https://www.youtube.com/watch?v=SGJ5cZnoodY) by WIRED
 - [Shenzhen: City of the Future. The high-tech life of China’s Silicon Valley](https://www.youtube.com/watch?v=1TZh9f7Ai9M&ab_channel=RTDocumentary) by RT Documentary
 - [Xinhua Special: Zhongguancun: Incubating the future](https://www.youtube.com/watch?v=UNm6-Ci_Z3U&ab_channel=NewChinaTV) by New China TV
-- [Pascal Coppens](https://www.youtube.com/c/PascalCoppens) (Youtube Channel)
+- [Pascal Coppens](https://www.youtube.com/c/PascalCoppens)
 
-### Other
-#### Key Policies and Keywords
+### Key Policies and Keywords
 (Links are intentionally excluded to avoid subjectivity)
 - 一帶一路 - Belt and Road Initiative
 - 中国制造2025 - Made In China 2025
@@ -46,23 +48,33 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 - 再生能源 - Renewable Energy
 - 千人计划 - Thousand Talents Plan
 - 中国梦 - Chinese Dream
+- 反壟斷法 - Big Tech Anti Trust Law
 
-#### Exciting Innovation Areas
-- Smarty City & City Brain
-- Smart Logitics & Automation
-- National Digital Currency (DCEP)
-- Live Streaming Commerce & Platform, Wanghong Economy
-- Mobile (QR) Payment, Yu'e Bao, Zhima Credit
-- Autonomous & Electric Car, Battery as a Service, Mobility as a Service, Robo Taxi & Drone Taxi
-- Online Medical Services & Online Doctor
-- Facial Recognition & Payment
-- Smart Retail, New Retail
-- Agricultural Automation
+### Exciting Innovation Areas
+#### National Digital Currency, DCEP
+  - [China’s National Digital Currency DCEP / CBDC Overview](https://boxmining.com/dcep/) by Box Mining
+#### Smarty City
+  - [Alibaba City Brain Lab](https://damo.alibaba.com/labs/city-brain?lang=en)
+  - [Tencent is building a Monaco-sized 'city of the future' in Shenzhen](https://www.cnn.com/style/article/tencent-shenzhen-net-city/index.html) by CNN
+#### Smart Logitics & Automation
+  - [Cainao](https://www.alibabagroup.com/en/ir/presentations/Investor_Day_2019_CainiaoNetwork.pdf)
+  - [Geek +](https://www.geekplus.com/en)
+  - [JD Logistics](https://www.youtube.com/watch?v=XGSl9DCkxvo&ab_channel=JD.com%2CInc.)
+#### Live Streaming Commerce
+  - [Wanghong Economy (网红经济)](https://en.wikipedia.org/wiki/Wanghong_economy)
+  - Douyin
+  - Kuaishou
+#### Mobile (QR) Payment & Internet Financing Service
+#### Autonomous & Electric Car, Battery as a Service, Mobility as a Service, Robo Taxi & Drone Taxi
+#### Online Doctor Consultation & Online Pharmeceutical Delivery
+#### Facial Recognition & Payment
+#### Smart Retail, New Retail & Same Day Delivery
+#### Agricultural Automation
 
-#### Startup & Investing
-- [Venture Capital Landscape](https://medium.com/learningspershare/the-vc-landscape-in-china-7736c2c10066)
+### Startup & Investing
+- [Chinese Venture Capital Landscape](https://medium.com/learningspershare/the-vc-landscape-in-china-7736c2c10066)
 - [Chinese Unicorn List](https://tracxn.com/d/unicorn-corner/unicorns-list-china#2021)
-- [Chinese ETF](https://www.etftracker.info/search/China?type=KEYWORD&id=82)
+- [Chinese ETF](https://etfdb.com/etfs/country/china/)
 
 ## Other Languages
 ### Korean
