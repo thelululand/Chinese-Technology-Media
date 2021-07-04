@@ -46,16 +46,16 @@ For non Chinese speaking investors, technologists, and entrepreneurs
 ### Key Policies and Keywords
 (Links are intentionally excluded to avoid subjectivity)
 - 一帶一路 - Belt and Road Initiative
-- 中国制造2025 - Made In China 2025
+- 中国制造2025, 中国创造 - Made In China 2025, Created In China
 - 新型基础 - New Infrastructure
 - 互联网+ - Internet Plus
 - 第十四个五年规划 - 14th 5 Year Plan
 - 双循环 - Dual Circulation Economic Strategy
 - 技术自立 - Technological Indepedence
-- 再生能源，碳中和 - Renewable Energy， Carbon Neutrality
+- 再生能源，碳中和 - Renewable Energy, Carbon Neutrality
 - 千人计划 - Thousand Talents Plan
 - 中国梦 - Chinese Dream
-- 反壟斷法 - Big Tech Anti Trust Law
+- 反壟斷法 - Anti Trust Regulation
 
 ### Exciting Innovation Areas
 #### National Digital Currency, DCEP
