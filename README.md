@@ -1,4 +1,4 @@
-# Chinese-Technology-Media 
+# Chinese-Technology-Media 🇨🇳 🐉 💻 🦾 📰 📈
 For non mandarin speaking investors, technologists, and entrepreneurs
 
 ### General News
