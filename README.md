@@ -1,5 +1,11 @@
-# Chinese-Technology-Media 🇨🇳 🐉 💻 🦾 📰 📈
-For non mandarin speaking investors, technologists, and entrepreneurs
+# Chinese Technology and Media 🇨🇳 🐉 💻 🦾 📰 📈
+For non Chinese speaking investors, technologists, and entrepreneurs
+
+> 不管黑猫白猫，捉到老就是好猫。
+> 
+> No matter if it is a white cat or a black cat; as long as it can catch mice, it is a good cat. 
+>
+> -Deng Xiaoping 邓小平
 
 ### General News
 - [Caixin Global](https://www.caixinglobal.com/)
@@ -29,12 +35,13 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 
 ### Books
 - [AI Superpowers: China, Silicon Valley, And The New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X) by Kai Fu Lee
+- [Changing World Order (Ch 6. The Big Cycles of China and Its Currency)](https://www.principles.com/the-changing-world-order/#chapter6) by Ray Dalio
 
 ### Documentary & Youtube
 - [Shenzhen: The Silicon Valley of Hardware](https://www.youtube.com/watch?v=SGJ5cZnoodY) by WIRED
 - [Shenzhen: City of the Future. The high-tech life of China’s Silicon Valley](https://www.youtube.com/watch?v=1TZh9f7Ai9M&ab_channel=RTDocumentary) by RT Documentary
-- [Xinhua Special: Zhongguancun: Incubating the future](https://www.youtube.com/watch?v=UNm6-Ci_Z3U&ab_channel=NewChinaTV) by New China TV
-- [Pascal Coppens](https://www.youtube.com/c/PascalCoppens)
+- [Zhongguancun: Incubating the future](https://www.youtube.com/watch?v=UNm6-Ci_Z3U&ab_channel=NewChinaTV) by New China TV
+- [Pascal Coppens Youtube Channel](https://www.youtube.com/c/PascalCoppens)
 
 ### Key Policies and Keywords
 (Links are intentionally excluded to avoid subjectivity)
@@ -84,3 +91,5 @@ For non mandarin speaking investors, technologists, and entrepreneurs
 
 #### Youtube & Podcast
 - [CEC China Economy Channel](https://www.youtube.com/channel/UCl1Br2aQ1yHrjwI_iE9cNrA)
+
+
