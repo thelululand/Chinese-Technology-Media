@@ -1,4 +1,4 @@
-# Chinese Technology and Media 🇨🇳 🐉 💻 🦾
+# Chinese Technology and Media 🇨🇳 🐉 💻 
 For non Chinese speaking investors, technologists, and entrepreneurs
 
 > 不管黑猫白猫，捉到老就是好猫。
